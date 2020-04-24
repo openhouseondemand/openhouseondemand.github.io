@@ -73,11 +73,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Open House OnDemand",
+        "meta_descr": "Live virtual, interactive, open house events, professionally hosted by our concierges. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/ohod-logo-1-762x96.png"
       },
       "components": [
         {
