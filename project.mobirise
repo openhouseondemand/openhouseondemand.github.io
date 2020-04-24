@@ -61,7 +61,7 @@
     "uniqCompNum": 12,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/ohod-logo-2-898x113-120x113.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
