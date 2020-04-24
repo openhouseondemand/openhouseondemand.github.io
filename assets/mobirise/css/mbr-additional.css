@@ -956,7 +956,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-rUYRvJtuQM .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.3rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rUYRvJtuQM .collapsed button.navbar-toggler {
@@ -1113,16 +1113,50 @@ section.lazy-placeholder:after {
 .cid-rUYBJGn7HG {
   background-image: url("../../../assets/images/virtual-open-house-agent-1167x779.png");
 }
-.cid-rUYQTJwYzh {
+.cid-rX3ZodXLvK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rX3ZodXLvK .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-rX3ZwuuMMw {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
-.cid-rUYQTJwYzh .mbr-section-subtitle {
-  color: #767676;
+.cid-rX3ZwuuMMw h4 {
+  text-align: left;
+  font-weight: 500;
 }
-.cid-rUYQTJwYzh .btn {
-  margin: 0 0 .5rem 0;
+.cid-rX3ZwuuMMw p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rX3ZwuuMMw .card-img {
+  width: auto;
+}
+.cid-rX3ZwuuMMw .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rX3ZwuuMMw .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rX3ZwuuMMw .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rX3ZwuuMMw .card-img span {
+    font-size: 40px !important;
+  }
 }
 .cid-rUYFBid6zw {
   padding-top: 45px;
@@ -1172,15 +1206,21 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   border-radius: 0;
 }
-.cid-rUYUF6Vk5Y {
-  padding-top: 45px;
-  padding-bottom: 60px;
+.cid-rUYQTJwYzh {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #efefef;
+}
+.cid-rUYQTJwYzh .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rUYQTJwYzh .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rUYQ4pH483 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #c1c1c1;
+  background-color: #767676;
 }
 @media (max-width: 767px) {
   .cid-rUYQ4pH483 .content {
@@ -1268,8 +1308,11 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rUYQ4pH483 .foot-text {
-  color: #232323;
+  color: #cccccc;
 }
 .cid-rUYQ4pH483 .foot-title {
   color: #232323;
+}
+.cid-rUYQ4pH483 .foot-logo {
+  color: #cccccc;
 }
