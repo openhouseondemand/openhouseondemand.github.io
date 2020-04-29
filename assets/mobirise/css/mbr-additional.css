@@ -1217,6 +1217,27 @@ section.lazy-placeholder:after {
 .cid-rUYQTJwYzh .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-rXwJjZkR4t {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rXwJjZkR4t .title {
+  margin-bottom: 2rem;
+}
+.cid-rXwJjZkR4t .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rXwJjZkR4t a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rXwJjZkR4t a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rXwJjZkR4t textarea.form-control {
+  min-height: 188px;
+}
 .cid-rUYQ4pH483 {
   padding-top: 45px;
   padding-bottom: 45px;
